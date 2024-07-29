@@ -1,15 +1,3 @@
-Great! You uploaded several Jupyter notebooks, which seem to be part of a project pipeline. To create a comprehensive README file for your GitHub repository, I'll extract key information from these files. Let me start by reviewing the content of each notebook.
-
-I'll go through each notebook and provide a summary, then we can put together the README file based on that.
-
-Let's start with the first notebook, `1. Preprocess.ipynb`.
-
-It looks like there was an issue with processing the notebook. Let me try a different approach to read the content of the notebook files.
-
-I'll try again to open and read the content of `1. Preprocess.ipynb`.
-
-Based on the initial review of the `1. Preprocess.ipynb` notebook, here is a brief summary:
-
 ### 1. Preprocess.ipynb
 - **Purpose**: This notebook is focused on preprocessing medical imaging data.
 - **Libraries Used**: 
@@ -27,13 +15,7 @@ Now, let's proceed with summarizing the second notebook, `2. Dataset_preparation
   - The names of the lung ROI files are listed and shuffled.
   - The dataset is split into training and testing sets, with 80% for training and 20% for testing.
 
-Next, I'll summarize the third notebook, `3. UNet_Training.ipynb`.
 
-It seems like I can’t do more advanced data analysis right now. Please try again later. 
-
-However, I can guide you on how to create the README file based on the general structure and common practices for such projects. Here's a template you can use and modify according to the specifics of your notebooks:
-
----
 
 # Project Title
 
@@ -94,9 +76,4 @@ Guidelines for contributing to the project:
 3. Make your changes.
 4. Submit a pull request.
 
-## License
-Include the project's license information here.
 
----
-
-Feel free to adjust this template to fit the specifics of your project. If you have any specific details you want to add, let me know!
